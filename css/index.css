@@ -514,6 +514,10 @@ footer{
         display: block;
     }
 
+    .menu_mobile_img{
+        width: 30px;
+    }
+
     .nav_mobile{
         display: flex;
         flex-flow: column;
